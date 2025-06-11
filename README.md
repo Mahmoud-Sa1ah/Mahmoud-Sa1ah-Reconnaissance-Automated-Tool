@@ -1,4 +1,4 @@
-# Mahmoud-Sa1ah-Reconnaissance-Automated-Tool
+# Reconnaissance-Automated-Tool
 This is **Task 1** of the **IT Solera Cyber Department Summer Internship 2025**.  
 A modular, Python-based reconnaissance tool developed to automate both passive and active information gathering. The tool supports early-stage penetration testing and vulnerability assessments.
 
